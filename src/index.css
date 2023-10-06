@@ -36,3 +36,29 @@ code {
   --text-colors400: rgba(116, 117, 120, 1);
   --text-colors500: rgba(62, 65, 71, 1);
 }
+
+:root {
+  --body-body-12-body-12-bold-font-family: "PlusJakarta Sans-Bold", Helvetica;
+  --body-body-12-body-12-bold-font-size: 12px;
+  --body-body-12-body-12-bold-font-style: normal;
+  --body-body-12-body-12-bold-font-weight: 700;
+  --body-body-12-body-12-bold-letter-spacing: 0px;
+  --body-body-12-body-12-bold-line-height: normal;
+  --body-body-base-16-body-16-bold-font-family: "PlusJakarta Sans-Bold",
+    Helvetica;
+  --body-body-base-16-body-16-bold-font-size: 16px;
+  --body-body-base-16-body-16-bold-font-style: normal;
+  --body-body-base-16-body-16-bold-font-weight: 700;
+  --body-body-base-16-body-16-bold-letter-spacing: 0px;
+  --body-body-base-16-body-16-bold-line-height: 150%;
+  --body-body-base-16-body-16-regular-font-family: "PlusJakarta Sans-Regular",
+    Helvetica;
+  --body-body-base-16-body-16-regular-font-size: 16px;
+  --body-body-base-16-body-16-regular-font-style: normal;
+  --body-body-base-16-body-16-regular-font-weight: 400;
+  --body-body-base-16-body-16-regular-letter-spacing: 0px;
+  --body-body-base-16-body-16-regular-line-height: 150%;
+  --main-brand-colorsecondary-airship-purple500: rgba(98, 82, 255, 1);
+  --text-colors400: rgba(116, 117, 120, 1);
+  --text-colors500: rgba(62, 65, 71, 1);
+}
