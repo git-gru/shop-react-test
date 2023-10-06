@@ -7,6 +7,15 @@ import CollectionImage6 from "../assets/images/collection6.png";
 import CollectionImage7 from "../assets/images/collection7.png";
 import CollectionImage8 from "../assets/images/collection8.png";
 
+import ProductImage1 from "../assets/images/product1.png";
+import ProductImage2 from "../assets/images/product2.png";
+import ProductImage3 from "../assets/images/product3.png";
+import ProductImage4 from "../assets/images/product4.png";
+import ProductImage5 from "../assets/images/product5.png";
+import ProductImage6 from "../assets/images/product6.png";
+import ProductImage7 from "../assets/images/product7.png";
+import ProductImage8 from "../assets/images/product8.png";
+
 export const shopFeaturedCollections = [
   {
     title: "The Great Outdoors",
@@ -55,5 +64,64 @@ export const shopFeaturedCollections = [
     description:
       "Shop patriot-loving businesses for high-quality men’s clothing and apparel.",
     image: CollectionImage8,
+  },
+];
+
+const shopProductsOnSale = [
+  {
+    title: "Taylor Made Organics",
+    description: "Hair Loss Organic Conditioner with silk protein.",
+    minPrice: 22,
+    maxPrice: 22,
+    image: ProductImage1,
+  },
+  {
+    title: "Love Naturals by Nature, LLC",
+    description: "Foaming Hand Soap",
+    minPrice: 9,
+    maxPrice: 9,
+    image: ProductImage2,
+  },
+  {
+    title: "Peasprout",
+    description: "Lunch Box Cards",
+    minPrice: 12,
+    maxPrice: 12,
+    image: ProductImage3,
+  },
+  {
+    title: "Fit Dog Bakery",
+    description: "Blueberry Blast",
+    minPrice: 16.99,
+    maxPrice: 16.99,
+    image: ProductImage4,
+  },
+  {
+    title: "Bar X Apparel",
+    description: "God. Family. Country. Hoodies",
+    minPrice: 55,
+    maxPrice: 60,
+    image: ProductImage5,
+  },
+  {
+    title: "Bumroll",
+    description: "Bumroll Subscription Box",
+    minPrice: 21.49,
+    maxPrice: 172,
+    image: ProductImage6,
+  },
+  {
+    title: "Blinking Owl Acres",
+    description: "Classic Oil Serum",
+    minPrice: 20,
+    maxPrice: 20,
+    image: ProductImage7,
+  },
+  {
+    title: "Woodsy Homelife",
+    description: "Hello Fall Burnt Orange Coffee Mug",
+    minPrice: 14,
+    maxPrice: 14,
+    image: ProductImage8,
   },
 ];
